@@ -1,12 +1,13 @@
 ### TASK 1
 
-Data Cleaning and Preprocessing
+### Data Cleaning and Preprocessing
 
-Tools Used: 
-  Python(Pandas)
-  Jupyter NoteBook(VS Code)
+## Tools Used: 
+
+  1. Python(Pandas)
+  2. Jupyter NoteBook(VS Code)
   
-Steps:
+## Steps:
   1.Import the dataset and explore basic info.
   
   2.Handle missing values using mean/median/imputation.
