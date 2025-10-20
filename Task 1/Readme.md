@@ -2,6 +2,10 @@
 
 Data Cleaning and Preprocessing
 
+Tools Used: 
+  Python(Pandas)
+  Jupyter NoteBook(VS Code)
+  
 Steps:
   1.Import the dataset and explore basic info.
   
